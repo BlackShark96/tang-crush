@@ -6,7 +6,7 @@ const CONFIG = {
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
     title: 'Trên núi thì có rừng, trong rừng có cây 😙',
-    desc: 'Trong tim anh chỉ có mình , em có biết chăng ',
+    desc: 'Trong tim anh chỉ có mình em , em có biết chăng ',
     btnYes: 'Tong tim em có anh<_> YÊU ANH <33',
     btnNo: 'Không, có :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
